@@ -281,15 +281,15 @@ Core strength: "Turning complex infrastructure challenges into automated, reliab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amolxops&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amolxops&show_icons=true&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolxops&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amolxops&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=amolxops&theme=dark" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=amolxops&theme=dark" alt="GitHub Streak"/>
 </p>
 
 
